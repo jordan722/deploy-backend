@@ -22,7 +22,7 @@
 		"passport": "^0.4.1",
 		"pg": "^7.17.1",
 		"pgtools": "^0.3.0",
-		"sequelize": "^4.41.0",
+		"sequelize": "^5.15.1",
 		"unminify": "^1.1.0"
 	}
 }
