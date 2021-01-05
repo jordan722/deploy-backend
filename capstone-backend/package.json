@@ -7,7 +7,7 @@
 		"start": "nodemon ./bin/www"
 	},
 	"dependencies": {
-		"axios": "^0.19.1",
+		"axios": "^0.21.1",
 		"cheerio": "^1.0.0-rc.3",
 		"compression": "^1.7.3",
 		"connect-session-sequelize": "^6.0.0",
